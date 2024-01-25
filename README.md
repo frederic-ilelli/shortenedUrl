@@ -1,7 +1,4 @@
 # Shortened Url
-_(juste en dessous des badges sympatiques à placer)_
-
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 Le service URL Shortener est une application web simple mais puissante qui permet aux utilisateurs de raccourcir des URL longues en des liens courts et faciles à partager. Que vous souhaitiez partager des liens sur les réseaux sociaux, dans des e-mails ou dans des messages, notre service vous permet de réduire la longueur de vos URL pour une meilleure accessibilité et une meilleure gestion.
 
