@@ -22,9 +22,9 @@ Le projet utilise Maven comme gestionnaire de dépendances. Assurez-vous d'avoir
 
 - Télécharger Maven à partir du site officiel d'Apache Maven : [Apache Maven Downloads](https://maven.apache.org/download.cgi)
 
-#### 3. Base de Données MySQL
+#### 3. Base de Données PostgreSql
 
-Le projet utilise PostgreSql comme base de données. Assurez-vous d'avoir PostgreSql installé sur votre système ou d'accéder à une base de données MySQL disponible pour stocker les liens raccourcis.
+Le projet utilise PostgreSql comme base de données. Assurez-vous d'avoir PostgreSql installé sur votre système ou d'accéder à une base de données PostgreSql disponible pour stocker les liens raccourcis.
 
 - Télécharger PostgreSql à partir du site officiel et suivre les instructions d'installation : [PostgreSql Downloads](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
