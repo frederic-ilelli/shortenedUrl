@@ -2,13 +2,7 @@
 
 Le service URL Shortener est une application web simple mais puissante qui permet aux utilisateurs de raccourcir des URL longues en des liens courts et faciles à partager. Que vous souhaitiez partager des liens sur les réseaux sociaux, dans des e-mails ou dans des messages, notre service vous permet de réduire la longueur de vos URL pour une meilleure accessibilité et une meilleure gestion.
 
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Pré-requis
-
-Ce qu'il est requis pour commencer avec votre projet...
 
 - **Java 21** : Assurez-vous d'avoir Java 21 installé sur votre système. Vous pouvez vérifier votre version de Java en exécutant la commande `java -version` dans votre terminal.
 - **Gestionnaire de Dépendances** : Vous aurez besoin du gestionnaire de dépendances Maven pour gérer les dépendances du projet. Assurez-vous d'avoir Maven installé sur votre système (`mvn -version`).
